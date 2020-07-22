@@ -1,8 +1,8 @@
 # 🖥 Front End Developer
 
-Hey, I'm Mayur Pai, a passionate FrontEnd Web Developer from India.
+Hey, I'm Mayur Pai, a passionate FrontEnd Web Developer.
 
-## I am passionate about:
+## I'm Passionate About:
 
 - Web Develpoment
 - Programming
