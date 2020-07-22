@@ -9,10 +9,12 @@ Hi, I'm Mayur, Web Developer.
 - Creative Writing
 - Photography
 
-## Skills
+<h2 align="center"><strong>Skills</strong></h2>
 
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /> <br>
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/-C%20Programming-orange" /> <img src="https://img.shields.io/badge/-Python-yellowgreen" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> 
+</p>
 
 <hr>
  
