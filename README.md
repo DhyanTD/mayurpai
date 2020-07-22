@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/mayurpai/mayurpai.github.io/blob/master/images/Eye.png" height="20%" width="80%" />
+</div>
+
 <h2 align="center"><strong>🖥 Front End Developer</strong></h2>
 
 <p align="center">Hi, I'm Mayur, Web Developer.</p>
