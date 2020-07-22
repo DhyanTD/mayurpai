@@ -1,13 +1,15 @@
-# 🖥 Front End Developer
+<h2 align="center"><strong>🖥 Front End Developer</strong></h2>
 
-Hi, I'm Mayur, Web Developer.
+<p align="center">Hi, I'm Mayur, Web Developer.</p>
 
-## I'm Passionate About:
+<h2 align="center"><strong>I'm Passionate About:</strong></h2>
 
+<p align="center">
 - Web Develpoment
 - Programming
 - Creative Writing
 - Photography
+</p>
 
 <h2 align="center"><strong>Skills</strong></h2>
 
@@ -15,8 +17,6 @@ Hi, I'm Mayur, Web Developer.
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /> <br>
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/-C%20Programming-orange" /> <img src="https://img.shields.io/badge/-Python-yellowgreen" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> 
 </p>
-
-<hr>
  
 <h2 align="center"><strong>Looking for Internships!</strong></h2>
 <p align="center">
