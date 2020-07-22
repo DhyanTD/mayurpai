@@ -18,6 +18,9 @@ Hey, I'm Mayur Pai, a passionate FrontEnd Web Developer from India.
 </br>
 </br>
 </br>
+
+## Social Handles
+
 <a href="https://mayurpai.github.io/"><img src="https://img.shields.io/badge/-My%20Portfolio-Black" alt="Mayur Pai" /></a>
 <a href="https://www.linkedin.com/in/mayur-pai5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/unmatched._.soul/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
