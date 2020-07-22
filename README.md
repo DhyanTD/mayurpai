@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/mayurpai/mayurpai.github.io/blob/master/images/Eye.png" height="200px" width="200px"/>
+<img src="https://github.com/mayurpai/mayurpai.github.io/blob/master/images/Eye.png" height="180px" width="180px"/>
 </div>
 
 <h2 align="center"><strong>🖥 Front End Developer</strong></h2>
