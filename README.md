@@ -14,11 +14,6 @@ Hey, I'm Mayur Pai, a passionate FrontEnd Web Developer from India.
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /> <br>
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/-C%20Programming-orange" /> <img src="https://img.shields.io/badge/-Python-yellowgreen" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> 
 
-
-</br>
-</br>
-</br>
-
 ## Social Handles
 
 <a href="https://mayurpai.github.io/"><img src="https://img.shields.io/badge/-My%20Portfolio-Black" alt="Mayur Pai" /></a>
