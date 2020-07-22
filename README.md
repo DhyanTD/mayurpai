@@ -5,7 +5,7 @@
 <h2 align="center"><strong>I'm Passionate About:</strong></h2>
 
 <p align="center">
-- Web Develpoment
+ Web Develpoment
 - Programming
 - Creative Writing
 - Photography
