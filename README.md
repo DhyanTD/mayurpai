@@ -2,9 +2,9 @@
 <img src="https://github.com/mayurpai/mayurpai.github.io/blob/master/images/Eye.png" height="175px" width="175px"/>
 </div>
 
-<h2 align="center"><strong>🖥 Front End Developer</strong></h2>
 
-<p align="center">Hi, I'm Mayur, Web Developer.</p>
+
+<p align="center">Hi, I'm <strong>Mayur</strong>, Web Developer.</p>
 
 <h2 align="center"><strong>I'm Passionate About:</strong></h2>
 
