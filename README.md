@@ -30,9 +30,6 @@
   <a href="https://www.facebook.com/profile.php?id=100010154376824"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-<img src="https://profile-counter.glitch.me/mayurpai/count.svg" />
- <img align="left" alt="Mayur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayurpai&show_icons=true&hide_border=true" />
-
 
 
 
