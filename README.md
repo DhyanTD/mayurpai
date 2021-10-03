@@ -46,7 +46,7 @@
   
   <br/>
   <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurpai&theme=radical" alt="MayurPai"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurpai&theme=react" alt="MayurPai"/></p>
   </div>
 <br/>
 
