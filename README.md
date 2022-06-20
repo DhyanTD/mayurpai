@@ -2,7 +2,7 @@
 <img src="https://github.com/mayurpai/mayurpai.github.io/blob/master/images/Eye.png" height="175px" width="175px"/>
 </div>
  
-<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mayur, Web Developer</h1>
+<h1 align="center">Hi, I'm Mayur, Web Developer</h1>
 
 
 <h3 align="center">Currently, I am a student pursuing my bachelor's degree in Information Science Engineering.</h3>
